@@ -48,3 +48,9 @@ QUALITY CONTROL YOGHURT RASA STROBERI
 Masukkan pilihan menu (1-7):
 ```
 
+---
+
+## Penulis
+Nama : Daniel Stevalen Wijaya
+
+
