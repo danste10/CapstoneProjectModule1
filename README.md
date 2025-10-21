@@ -30,6 +30,9 @@ batch_list = {
     "YS005": { "tanggal": "2025-10-05", "pH": 4.5, "warna": "Putih krem", "aroma": "Segar susu", "status": "Lulus"}
 ```
 
+---
+##Pilihan Menu Interaktif Program
+```python
 ========================================
 QUALITY CONTROL YOGHURT RASA STROBERI
 ========================================
@@ -43,4 +46,5 @@ QUALITY CONTROL YOGHURT RASA STROBERI
 7. Keluar
 
 Masukkan pilihan menu (1-7):
+```
 
