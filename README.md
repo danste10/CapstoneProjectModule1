@@ -30,7 +30,6 @@ batch_list = {
     "YS005": { "tanggal": "2025-10-05", "pH": 4.5, "warna": "Putih krem", "aroma": "Segar susu", "status": "Lulus"}
 ```
 
-## Pilihan menu interaktif program:
 ========================================
 QUALITY CONTROL YOGHURT RASA STROBERI
 ========================================
@@ -43,4 +42,5 @@ QUALITY CONTROL YOGHURT RASA STROBERI
 6. Hapus data batch
 7. Keluar
 
-Masukkan pilihan menu (1-7): 
+Masukkan pilihan menu (1-7):
+
